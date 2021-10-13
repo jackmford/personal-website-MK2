@@ -1,4 +1,5 @@
 # personal-website-MK2
-V2 of my personal website
 
-Recreating the site to run on a Digital Ocean droplet using NGINX and uWSGI
+MK2 of the website is running on a Ditial Ocean droplet using NGINX as a reverse proxy and uWSGI to serve the Flask application.
+
+Found at [jackmitchellfordyce.com](https://www.jackmitchellfordyce.com/)
