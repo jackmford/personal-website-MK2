@@ -15,10 +15,6 @@
 }
 .navbar{
 	height: 72px;
-	/*background-color: #ffffff;*/
-	/*background-color: #FAF0BE;*/
-	/*background-color: #f3e5ab;*/
-	/*background-color: #81b29a;*/
 }
 .right-btn{
 	margin-right: 16px;
@@ -37,16 +33,11 @@
 	border: 10px solid #81b29a;
 }
 #total-cont{
-	/*background-color: #FAF0BE;*/
-	/*background-color: #ffffff;*/
-	/*background-color: #fafad2;*/
-	/*background-color: #f4f1de;*/
 	padding-bottom: 50px;
 }
 .aboutme-title{
 	margin-top: 40px;
 	text-align: left;
-	/*width: 393px;*/
 	width: 562px;
 	padding: 0px;
 }
@@ -62,8 +53,6 @@
 .proj-p-title{
 	font-size: 18px;
 	font-weight: bold;
-	/*margin: 0px;*/
-	/*margin-top:16%;*/
 	padding: 10px;
 	text-align: left;
 	margin-top: auto;
@@ -84,10 +73,8 @@
 	padding:10px;
 }
 .proj-row{
-	border: 0.15px solid #c8c8c8;
+	#border: 0.15px solid #c8c8c8;
 	display: flex;
-	/*justify-content: center;
-	align-items: center;*/
 }
 #proj-desc-container{
 	margin-top: 25px;
@@ -136,10 +123,6 @@ html, body{
 	margin: 0;
 	height: 100%;
 	width: 100%;
-}
-body{
-	/*background-color: #fafad2;*/
-	/*background-color: #f4f1de;*/
 }
 #mail-link{
 	position:relative;
