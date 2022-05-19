@@ -2,6 +2,7 @@ from app import website
 from flask import Flask
 from http import HTTPStatus
 
+
 def create_app():
     app = Flask(__name__)
     app.register_blueprint(website.bp)

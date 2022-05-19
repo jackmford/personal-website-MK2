@@ -13,8 +13,3 @@ def hello_world():
 @bp.route('/resume/')
 def resume():
     return render_template('resume.html')
-
-
-@bp.route('/about/')
-def about():
-    return render_template('about.html')
