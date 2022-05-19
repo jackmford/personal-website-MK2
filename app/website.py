@@ -1,6 +1,5 @@
-from flask import Flask, Blueprint
+from flask import Blueprint
 from flask import render_template
-import os
 
 bp = Blueprint('website', __name__)
 
