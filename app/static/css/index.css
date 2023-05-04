@@ -9,6 +9,14 @@ body{
 	margin: auto;
 	overflow: hidden;
 }
+
+.container .snippet {
+	width: 32%;
+	display: inline-block;
+	margin: auto;
+	vertical-align: top;
+}
+
 #navbar{
 	margin-top: 8px;
 }
@@ -32,4 +40,10 @@ body{
 #main-section a img{
 	width: 40px;
 	height: 40px;
+}
+
+@media(max-width:800px){
+	.container .snippet{
+		width: 100%
+	}
 }
